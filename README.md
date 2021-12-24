@@ -66,7 +66,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 
 ![Hits-badge]
 
-[Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
+[Banner]: https://i.imgur.com/J5h3xWv.jpeg "We will conquer the earth!!"
 [Github's Wiki]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 
 [Home]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
